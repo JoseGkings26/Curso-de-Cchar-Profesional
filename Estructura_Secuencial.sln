@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Estructura_Secuencial", "Estructura_Secuencial\Estructura_Secuencial.csproj", "{52E27C7B-BB6A-45F9-B268-41D09C93BB07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Estructura_Condicional", "Estructura_Condicional\Estructura_Condicional.csproj", "{15B91C8F-17D2-4569-BDE3-2080972BB6A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52E27C7B-BB6A-45F9-B268-41D09C93BB07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52E27C7B-BB6A-45F9-B268-41D09C93BB07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52E27C7B-BB6A-45F9-B268-41D09C93BB07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52E27C7B-BB6A-45F9-B268-41D09C93BB07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15B91C8F-17D2-4569-BDE3-2080972BB6A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15B91C8F-17D2-4569-BDE3-2080972BB6A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15B91C8F-17D2-4569-BDE3-2080972BB6A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15B91C8F-17D2-4569-BDE3-2080972BB6A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2CFE3B1A-FDE6-459E-9956-6A63C93AE713}
+	EndGlobalSection
+EndGlobal
