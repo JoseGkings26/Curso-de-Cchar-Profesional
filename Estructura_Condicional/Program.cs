@@ -10,8 +10,8 @@ namespace Estructura_Condicional
     {
         static void Main(string[] args)
         {
-            Ejercicio2_Extra objEjercicio2 = new Ejercicio2_Extra();
-            objEjercicio2.calcularMontoTotal();
+            Ejercicio4_Extra objEjercicio4 = new Ejercicio4_Extra();
+            objEjercicio4.calcular();
         }
     }
 }
