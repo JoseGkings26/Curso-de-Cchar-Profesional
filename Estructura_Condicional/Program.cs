@@ -10,8 +10,8 @@ namespace Estructura_Condicional
     {
         static void Main(string[] args)
         {
-            Ejercicio7_extra objEjercicio7 = new Ejercicio7_extra();
-            objEjercicio7.determinarNumeroTresDigitos();
+            Ejercicio6_Extra objEjercicio6 = new Ejercicio6_Extra();
+            objEjercicio6.isValidDate();
         }
     }
 }
